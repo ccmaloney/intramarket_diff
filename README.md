@@ -1,5 +1,5 @@
-### Intramarket-Differencing
-
+## Intramarket-Differencing
+### Strategy Goals
 1) Identify Highly correlated crypto pairs. Could be useful to create a heatmap of a large sample of tokens we find interesting, then choose promising pairs from the map. Heatmap could be used in our presentation.
 2) Identify indicators for comparing correlated pairs in order to find divergences.
 3) Identify the threshold for our stationary indicator in order to enter long/short positons on each asset.
